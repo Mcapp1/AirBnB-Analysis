@@ -20,23 +20,23 @@ Data Dictionary of Pre-Cleaned Data: https://docs.google.com/spreadsheets/d/1b_d
 
 |Feature|Definition of Feature|
 |-------|---------------------|
-|id-----|Id associated with listing|
+|id|Id associated with listing|
 |description|Description/overview of listing|
 |host_name|name of host for listing|
 |borough-|NYC Borough associated with listing|
 |neighbourhood|neighbourhood the listing is in|
-|lat----|Latitude-------------|
-|long---|Longitude------------|
+|lat|Latitude|
+|long|Longitude|
 |cancellation_policy|Type of cancelalation policy|
 |room_type|type of room associated with listing|
 |construction_year|year construction happened/year built|
-|price--|Rental Price---------|
+|price|Rental Price|
 |service_fee|fee of stay, Airbnb profits|
 |number_of_reviews|number of reviews the listing has|
 |review_rate_number|average review of listing|
 |availability_365|number of days the property is available in the year|
 |verified|whether the host is verified or not|
-|instant_bookable| if the listing is instantly bookable
+|instant_bookable| if the listing is instantly bookable|
 
 
 ## Conclusions and Recommendations
